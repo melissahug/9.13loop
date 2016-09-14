@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\bin\Debug\homework 9.13 loop.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\bin\Debug\homework 9.13 loop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\bin\Debug\homework 9.13 loop.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\obj\Debug\homework 9.13 loop.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\obj\Debug\homework 9.13 loop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\homework 9.13 loop\homework 9.13 loop\obj\Debug\homework 9.13 loop.pdb
